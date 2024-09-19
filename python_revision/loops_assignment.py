@@ -8,6 +8,4 @@ while x < 3:
         if i == "Monday":
             print("---------")
             continue
-        print(i)
-
-          
+        print(i)          
