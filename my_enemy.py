@@ -5,5 +5,6 @@
 import enemy as enm
 
 jj = enm.Enemy()
-
+jj.talk()
 print(jj.enemy_attack)
+
