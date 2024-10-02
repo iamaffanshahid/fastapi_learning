@@ -160,24 +160,4 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-fast_env/lib64
-fast_env/pyvenv.cfg
-fast_env/bin/activate
-fast_env/bin/activate.csh
-fast_env/bin/activate.fish
-fast_env/bin/Activate.ps1
-fast_env/bin/dotenv
-fast_env/bin/email_validator
-fast_env/bin/fastapi
-fast_env/bin/httpx
-fast_env/bin/markdown-it
-fast_env/bin/pip
-fast_env/bin/pip3
-fast_env/bin/pip3.12
-fast_env/bin/pygmentize
-fast_env/bin/python
-fast_env/bin/python3
-fast_env/bin/python3.12
-fast_env/bin/typer
-fast_env/bin/uvicorn
-fast_env/bin/watchfiles
+fast_env/
