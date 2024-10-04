@@ -41,8 +41,8 @@ async def read_all_books():
     return BOOKS
 
 
-@app.post("/creat_book")
-async def creat_book(book_request:BookRequest):
+@app.post("/create_book")
+async def create_book(book_request:BookRequest):
 
     new_book = Book(**book_request.model_dump())
     BOOKS.append(new_book)
